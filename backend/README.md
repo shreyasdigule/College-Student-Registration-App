@@ -1,4 +1,4 @@
-# ShikshaKendra Backend
+# ShikshaPortal Backend
 
 Express + MongoDB REST API for the ShikshaKendra exam portal.
 
